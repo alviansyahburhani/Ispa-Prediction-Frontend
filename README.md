@@ -18,6 +18,9 @@
 - [Lisensi](#lisensi)
 - [Pengembang](#pengembang)
 
+## Landing Page
+![Logo Aplikasi Saya](assets/IspaDetect.png)
+
 ## Deskripsi Proyek
 **ISPA Detect** adalah sistem deteksi dini berbasis *Machine Learning* yang dirancang untuk membantu tenaga medis dan masyarakat dalam melakukan skrining awal risiko Infeksi Saluran Pernapasan Akut (ISPA). Proyek ini menggabungkan teknik *Ensemble Learning* yang canggih (Random Forest & XGBoost) dengan pendekatan *Soft Voting* untuk memberikan prediksi risiko yang lebih akurat dan dapat diandalkan dibandingkan model tunggal.
 
